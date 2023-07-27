@@ -10,10 +10,10 @@ In this project, I will investigating the how the Graduation and Dropout rates o
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.
 
 1. Scott Francis, Superintendent of Berkeley School District
-   *  Phone: (248) 837-8004
+    *  Phone: (248) 837-8004
 2. Dr. Kyla Johnson-Trammell, Superintendent of Oakland Unified School District
-   *  Phone: (510) 879-8000
-   *  Email: superintendent@ousd.org
+    *  Phone: (510) 879-8000
+    *  Email: superintendent@ousd.org
 3. Alberto M. Carvalho, Superintendent of Los Angeles Unified School 
 District
-   *  LinkedIn: https://www.linkedin.com/in/alberto-carvalho-33aa66193/
+    *  LinkedIn: https://www.linkedin.com/in/alberto-carvalho-33aa66193/
