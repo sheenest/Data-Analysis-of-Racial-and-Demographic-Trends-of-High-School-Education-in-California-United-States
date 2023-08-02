@@ -21,11 +21,19 @@ After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combinde
 <h1>Analysis Questions</h1>
 
 *Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?*
+
 _Step by step methodology_
-1. fnjrf
-2. 2rfr
-3. frfr
-4. frf
+1. Upon uploading the file onto Google Sheets, a pivot table is created from the data.
+2. The settings of the Pivot Table are set as such:
+   *  Rows: CountyName
+   *  Values as: 
+      * Regular HS Diploma Graduates (Rate)
+      * Dropour (Rate)
+      * Sill Enrolled (Rate)
+   *  Filters:
+      * Academic Year: 2021-2022
+      * Reporting Category: TA (meaning total)
+
    
 Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019?
 
