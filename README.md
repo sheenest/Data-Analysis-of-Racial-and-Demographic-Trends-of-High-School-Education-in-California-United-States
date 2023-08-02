@@ -145,9 +145,26 @@ From the charts, it can be observed that Homeless(SH) students had the highest d
 
 Another interesting observation was that unlike the other Counties, the Droprates of Inyo County varied consistently among the various Demographic Subgroups through the whole period from 2016-2017 to 2021-2022.
 
+
+
 **Question 5: For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?**
+_Methodology_
+1: Create a pivot table from the data on a seperate sheet, named as 2022 GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
+2: The settings of the Pivot Table are set as such:
+   *  Rows: CountyName
+   *  Values as: ( an aggegation function will be used, but because all values are unique, any of the functions (min, max, mean) will work.
+      * Regular HS Diploma Graduates (Rate)
+      * Dropout (Rate)
+      * Sill Enrolled (Rate)
+   *  Filters:
+      * Academic Year: 2021-2022
+      * Reporting Category: TA (meaning total)
+      * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
 
-
+![Question 5](/images/Question5.png)  
+Answer:
+![Graduation, Still Enrolled and Dropout Rates of Counties in 2022](/images/Graduation,_Still_Enrolled_and_Dropout_Rates_of_Counties_in_2022.png)  
+From the chart, it can be seen that Mono has the Highest Proportion of Students were still enrolled after their Senior Year, and also the lowest Gradaution Rate in 2022.
 
 <h1>Interviewees</h1>
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.
