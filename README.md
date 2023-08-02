@@ -6,7 +6,14 @@ In this project, I will be looking into Trends of Graduation and Dropout Rates a
 The data is from the California Department of Education and can be found here: [https://www.cde.ca.gov/ds/ad/filesacgr.asp](https://www.cde.ca.gov/ds/ad/filesacgr.asp). 
 
 <h1>Data Pre-processing</h1>
-Due to the large number of School Districts and Schools in Califirnia, and for the simplicity of this project, I will only be looking at the Data of the Adjusted Cohort Graduation Rates aggregated by Counties. As I am measuring the data across all school in California, Schools that are both in and not in the Dashboard Alternative School Status Program (DASS) as well as both Charted and Non-Chartere Schools will be included in the analysis.
+Due to the large number of School Districts and Schools in Califirnia, I will be looking at the Data of the Adjusted Cohort Graduation Rates aggregated by Counties. As I am measuring the data across all school in California, Schools that are both in and not in the Dashboard Alternative School Status Program (DASS) as well as both Charted and Non-Chartere Schools will be included in the analysis.
+
+As the data files are seperated by each Graduation Year on the website, they are all individually downloaded and put together on Excel, before importing them into Google Sheets for further Data Analysis.
+
+Using Power Query on Microsoft Excel, the Data is filtered and merged as mentioned, before exporting as a csv file to be uploaded onto Google Sheets.
+
+
+
 
 <h1>Analysis Questions</h1>
 1.  What are the Top 5 Counties that had the highest Dropout Rates in 2022?
