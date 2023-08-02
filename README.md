@@ -141,11 +141,9 @@ The charts of Dropout Rates by Demographic for each of the Top 5 Counties from 2
 ![Dropout Rates across different Demographics in Mono County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Mono_County_from_2017-2022.png)
 ![Dropout Rates across different Demographics in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Plumas_County_from_2017-2022.png)
 
-From the charts, it can be observed that Homeless(SH) students had the highest dropout rates for all 5 counties except for Nevada in 2022. It was interesting to see that for Nevada County, the top 3 Demogrphic Groups in Dropout Rates are Enligsh Learners(SE), Socioeconimically Disadvanteged (SS) and Foster (SF).
+From the charts, it can be observed that Homeless(SH) students had the highest dropout rates for all 5 counties except for Nevada in 2022. It was interesting to see that for Nevada County, the top 3 Demogrphic Groups in Dropout Rates are Enligsh Learners(SE), Socioeconimically Disadvanteged (SS) and Foster (SF). It also important and worrying to note that the Dropout Rates for English Learners in Nevada County were the highest among all other Demographics and Counties in the 5 Counties.
 
 Another interesting observation was that unlike the other Counties, the Droprates of Inyo County varied consistently among the various Demographic Subgroups through the whole period from 2016-2017 to 2021-2022.
-
-Another useful observation was that Plumas County, the Dropout rates for Homeless Students gradually increased from 2017 - 2022, which shows that the number of Homeless Students had been consistnetly increasing by proportion in the period.
 
 **Question 5: For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?**
 
