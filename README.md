@@ -18,6 +18,10 @@ Based on the above stated conditions, the data is filterd as such using Power Qu
 After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combinde together to form a single Dataset, named 2017-2022 (County). 
 ![Alt text](/Power_Query.png "Pre-processing of Data on Excel Power Query")  
 
+As Google Sheets is not able to handle the size of the data, two Googele Sheet Files are created in my analysis. They are as follows:
+* [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing)
+* [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing)
+
 <h1>Analysis Questions</h1>
 
 *Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?*
