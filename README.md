@@ -179,6 +179,13 @@ From the chart, it can be seen that Mono has the Highest Proportion of Students 
 
 [Chloropeth Map of High School Dropout Rates of Counties in California in 2022](https://datawrapper.dwcdn.net/ROyZZ/3/)
 
+<div class="aside">
+<h2>My heading</h2>
+<p>Some text, some text, some more text.</p>
+</div>
+
+<iframe title="Dropout Rates of High Schools in Counties of California in 2022" aria-label="Map" id="datawrapper-chart-ROyZZ" src="https://datawrapper.dwcdn.net/ROyZZ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="886" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
 
 <h1>Interviewees</h1>
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.
