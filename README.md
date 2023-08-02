@@ -26,11 +26,10 @@ As Google Sheets is not able to handle the size of the data, two Googele Sheet F
 
 **Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**
 
-_Step by step methodology_
-1. Upload the file onto Google Sheets. The sheet with the data is named as 2017-2022(County)
+_Methodology_
+1. Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment)
 In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for more comprehensive analysis.
-2. Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment)
-3. The settings of the Pivot Table are set as such:
+2. The settings of the Pivot Table are set as such:
    *  Rows: CountyName
    *  Values as: 
       * Regular HS Diploma Graduates (Rate)
@@ -44,9 +43,12 @@ In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rat
 ![Alt text](/Question1.png "Question 1")  
 Answer: The Top 5 Countries with the highest Dropout Rates in 2022 are as follows (from higest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.
 
-Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019(after Covid 19 Pandemic) ?
+**Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019(after Covid 19 Pandemic)?**
 
-
+_Methodology_
+1. Upload the file onto Google Sheets. The sheet with the data is named as 2017-2022(County)
+2. 
+![Alt text](/Question2.png "Question 2")  
 Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?
 
 
