@@ -66,7 +66,7 @@ _Methodology_
 **Answer:** 
 Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.
 
-Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?
+**Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?**
 
 _Methodology_
 1. Create a Pivot Table from the data on a seperate sheet, named Race Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
@@ -78,7 +78,7 @@ _Methodology_
    *  Filters:
       * Reporting Category: RB, RI, RA, RF, RH, RD, RP, RT, RW
       * County Name: San Francisco
-The abbreviations of the Reporting Catergories represents Race and are as such (details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds/ad/fsacgr.asp):
+The abbreviations of the Reporting Catergories represents Race and are as such:
 * RB = African American
 * RI = American Indian or Alaska Native
 * RA = Asian
@@ -88,6 +88,7 @@ The abbreviations of the Reporting Catergories represents Race and are as such (
 * RP = Pacific Islander
 * RT = Two or More Races
 * RW = White
+Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds/ad/fsacgr.asp).
 
 ![Alt text](/Race Yearly Dropout.png "Race Yearly Dropout")
 
@@ -104,11 +105,48 @@ The charts of Dropout Rates of each Individual Race from 2017-2022 are as follow
 
 From the charts, it can be observed that African Americans(RB) and Hispanics/Latino (RH) are the races that often have the highest dropout rates. It is worth noting that San Francisco and Nevada Counties have both a more balanced mixture of Races in their Dropout Rates, while for Inyon, Mono and Plumas Counties, there is only African American (RB), Hispanic/Latino (RH), and White Americans (RW) in their Dropout Rates.
 
-Question 4. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Demographic Background from 2017 to 2022?
+**Question 4. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Demographic Background (Homeless, Disabilities, English Learners, etc) from 2017 to 2022?**
+
+_Methodology_
+The Methodology for this question is similar to Question 3, just that the Filtes fro Reporting Categories are the Demographic Categories instead.
+1. Create a Pivot Table from the data on a seperate sheet, named Demographic Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
+2. To answer this question, I created a Pivot Table and Chart for each of the Top 5 Coutnies from Question 1. The settings of the Pivot Table for San Francisco, for example, are set as such:
+   *  Rows: Academic Year
+   *  Columns: Reporting Category
+   *  Values as: 
+      * Dropout (Rate)
+   *  Filters:
+      * Reporting Category: SE, SD, SS, SM, SF, SH
+      * County Name: San Francisco
+The abbreviations of the Reporting Catergories represents Demographic and are as such: 
+* SE = English Learners
+* SD = Students with Disabilities
+* SS = Socioeconomically Disadvantaged
+* SM = Migrant
+* SF = Foster
+* SH = Homeless
+Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds/ad/fsacgr.asp).
+
+![Alt text](/Demographic Yearly Dropout.png "Demographic Yearly Dropout")
+
+3. Create a line chart with the table, with the Academic Year as the X-axis, and a series for each individual reporting category (RB, RI, RA, RF, RH, RD, RP, RT, RW).
+4. Repeat steps 2 and 3 for the other 4 counties.
+
+**Answer:**
+The charts of Dropout Rates of each Individual Race from 2017-2022 are as follows:
+![Alt text](/Dropout Rates across different Demographics in San Francisco County from 2017-2022.png "Dropout Rates across different Demographics in San Francisco County from 2017-2022")
+![Alt text](/Dropout Rates across different Demographics in Nevada County from 2017-2022.png "Dropout Rates across different Demographics in Nevada County from 2017-2022.png")
+![Alt text](/Dropout Rates across different Demographics in Inyo County from 2017-2022.png "Dropout Rates across different Demographics in Inyo County from 2017-2022.png")
+![Alt text](/Dropout Rates across different Demographics in Momo County from 2017-2022.png "Dropout Rates across different Demographics in Momo County from 2017-2022.png")
+![Alt text](/Dropout Rates across different Demographics in Plumas County from 2017-2022.png "Dropout Rates across different Demographics in Plumas County from 2017-2022.png")
+
+From the charts, it can be observed that Homeless(SH) students had the highest dropout rates for all 5 counties except for Nevada in 2022. It was interesting to see that for Nevada County, the top 3 Demogrphic Groups in Dropout Rates are Enligsh Learners(SE), Socioeconimically Disadvanteged (SS) and Foster (SF).
+
+Another interesting observation was that unlike the other Counties, the Droprates of Inyo County varied consistently among the various Demographic Subgroups through the whole period from 2016-2017 to 2021-2022.
+
+**Question 5: For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?**
 
 
-
-Question 5. For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?
 
 <h1>Interviewees</h1>
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.
