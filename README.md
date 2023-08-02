@@ -1,7 +1,7 @@
 # J124-Final-Project: Data Analysis of Racial and Demographic Trends of High School Education in California, United States.
 
 <h1>Project Description</h1>
-In this project, I will be looking into Trends of Graduation and Dropout Rates across Race and Demography in the education system in Caifornia, United States. In doing so, I would be looking specifically into yearly Adjusted Cohort Graduation Rates(ACGR) of High Schools (Grade 9-12) of the Academic Years 2016-2017 to 2021-2022. Through this data, the Yearly Graduation and Dropout Rates across race and demographic of schools across all School Districts and Counties in California are retrieved and compared for analysis.
+In this project, I will be looking into Trends of Graduation and Dropout Rates across Race and Demography in the education system in Caifornia, United States. In doing so, I would be looking specifically into yearly Adjusted Cohort Graduation Rates(ACGR) of High Schools (Grade 9-12) of the Academic Years 2016-2017 to 2021-2022. Through this data, the Yearly Graduation and Dropout Rates across race and demography of schools across all School Districts and Counties in California are retrieved and compared for analysis.
 
 The data is from the California Department of Education and can be found here: [https://www.cde.ca.gov/ds/ad/filesacgr.asp](https://www.cde.ca.gov/ds/ad/filesacgr.asp). 
 
