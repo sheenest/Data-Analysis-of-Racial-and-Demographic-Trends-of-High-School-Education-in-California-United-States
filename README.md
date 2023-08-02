@@ -27,9 +27,9 @@ As Google Sheets is not able to handle the size of the data, two Googele Sheet F
 **Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**
 
 _Methodology_
-1. Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment)
+1: Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment)
 In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for more comprehensive analysis.
-2. The settings of the Pivot Table are set as such:
+2: The settings of the Pivot Table are set as such:
    *  Rows: CountyName
    *  Values as: 
       * Regular HS Diploma Graduates (Rate)
@@ -46,8 +46,18 @@ Answer: The Top 5 Countries with the highest Dropout Rates in 2022 are as follow
 **Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019(after Covid 19 Pandemic)?**
 
 _Methodology_
-1. Upload the file onto Google Sheets. The sheet with the data is named as 2017-2022(County)
-2. 
+1. Create a Pivot Yable from the data on a seperate sheet, named County Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
+2. The settings of the Pivot Table are set as such:
+   *  Rows: Academic Year
+   *  Columns: County Name
+   *  Values as: 
+      * Dropout (Rate)
+   *  Filters:
+      * Reporting Category: TA (meaning total)
+      * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
+    
+    ![Alt text](/Question2.png "Question 2 Pivot Table")  
+3. Create a Chart from the Pivot Table. 
 ![Alt text](/Question2.png "Question 2")  
 Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?
 
