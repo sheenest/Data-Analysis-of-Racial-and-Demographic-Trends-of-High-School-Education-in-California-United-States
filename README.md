@@ -145,6 +145,8 @@ From the charts, it can be observed that Homeless(SH) students had the highest d
 
 Another interesting observation was that unlike the other Counties, the Droprates of Inyo County varied consistently among the various Demographic Subgroups through the whole period from 2016-2017 to 2021-2022.
 
+Another useful observation was that Plumas County, the Dropout rates for Homeless Students gradually increased from 2017 - 2022, which shows that the number of Homeless Students had been consistnetly increasing by proportion in the period.
+
 **Question 5: For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?**
 
 
