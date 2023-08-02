@@ -172,6 +172,12 @@ _Methodology_
 ![Graduation, Still Enrolled and Dropout Rates of Counties in 2022](/images/Graduation,_Still_Enrolled_and_Dropout_Rates_of_Counties_in_2022.png)  
 From the chart, it can be seen that Mono has the Highest Proportion of Students were still enrolled after their Senior Year, and also the lowest Gradaution Rate in 2022.
 
+
+<h1>Data Visualization</h1>
+[Chloropeth Map of High School Dropout Rates of Counties in California in 2022](https://datawrapper.dwcdn.net/ROyZZ/1/)
+[Chloropeth Map of High School Dropout Rates of Counties in California in 2022](.png)
+
+
 <h1>Interviewees</h1>
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.
 
