@@ -5,7 +5,7 @@ In this project, I will be looking into Trends of Graduation and Dropout Rates a
 
 The data is from the California Department of Education and can be found here: [https://www.cde.ca.gov/ds/ad/filesacgr.asp](https://www.cde.ca.gov/ds/ad/filesacgr.asp). 
 
-<h1>Analysis Questions</h1>
+<h2>Analysis Questions</h2>
 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?
 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which countries had a significant increase in Dropout Rates after 2019?
 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?
