@@ -162,7 +162,9 @@ _Methodology_
       * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
 
 ![Question 5](/images/Question5.png)  
-Answer:
+
+**Answer:**
+
 ![Graduation, Still Enrolled and Dropout Rates of Counties in 2022](/images/Graduation,_Still_Enrolled_and_Dropout_Rates_of_Counties_in_2022.png)  
 From the chart, it can be seen that Mono has the Highest Proportion of Students were still enrolled after their Senior Year, and also the lowest Gradaution Rate in 2022.
 
