@@ -15,23 +15,23 @@ Using Power Query on Microsoft Excel, the Data is filtered and merged as mention
 
 <h1>Analysis Questions</h1>
 
-1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?
-
-   Step by Step Methodology
-   1. 
-   2. 
-   3.
-
-2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019?
-
-
-3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?
+Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?
+Step by step methodology
+1. fnjrf
+2. 2rfr
+3. frfr
+4. frf
+   
+Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019?
 
 
-4. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Demographic Background from 2017 to 2022?
+Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?
 
 
-5. For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?
+Question 4. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Demographic Background from 2017 to 2022?
+
+
+Question 5. For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?
 
 <h1>Interviewees</h1>
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.
