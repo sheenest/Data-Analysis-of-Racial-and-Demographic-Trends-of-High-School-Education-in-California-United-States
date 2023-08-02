@@ -41,7 +41,9 @@ In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rat
 
 
 ![Alt text](/Question1.png "Question 1")  
-Answer: The Top 5 Countries with the highest Dropout Rates in 2022 are as follows (from higest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.
+
+**Answer:** 
+The Top 5 Countries with the highest Dropout Rates in 2022 are as follows (from higest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.
 
 **Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019(after Covid 19 Pandemic)?**
 
@@ -61,13 +63,46 @@ _Methodology_
 4. Create a Chart from the Pivot Table. 
 ![Alt text](/Dropout Rates of Top 5 Countries from 2018-2022.png "Question 2 Chart")
 
-Answer: Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.
+**Answer:** 
+Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.
 
 Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?
 
 _Methodology_
-1. Create a Pivot Table from the data on a seperate sheet, named County Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
+1. Create a Pivot Table from the data on a seperate sheet, named Race Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
+2. To answer this question, I created a Pivot Table and Chart for each of the Top 5 Coutnies from Question 1. The settings of the Pivot Table for San Francisco, for example, are set as such:
+   *  Rows: Academic Year
+   *  Columns: Reporting Category
+   *  Values as: 
+      * Dropout (Rate)
+   *  Filters:
+      * Reporting Category: RB, RI, RA, RF, RH, RD, RP, RT, RW
+      * County Name: San Francisco
+The abbreviations of the Reporting Catergories represents Race and are as such (details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds/ad/fsacgr.asp):
+* RB = African American
+* RI = American Indian or Alaska Native
+* RA = Asian
+* RF = Filipino
+* RH = Hispanic or Latino
+* RD = Not Reported
+* RP = Pacific Islander
+* RT = Two or More Races
+* RW = White
 
+![Alt text](/Race Yearly Dropout.png "Race Yearly Dropout")
+
+3. Create a line chart with the table, with the Academic Year as the X-axis, and a series fro each individual reporting category (RB, RI, RA, RF, RH, RD, RP, RT, RW).
+4. Repeat steps 2 and 3 for the other 4 counties.
+
+**Answer:**
+The charts of Dropout Rates of each Individual Race from 2017-2022 are as follows:
+![Alt text](/Dropout Rates across different Races in San Francisco County from 2017-2022.png "")
+![Alt text](/Dropout Rates across different Races in Nevada County from 2017-2022.png "")
+![Alt text](/Dropout Rates across different Races in Inyo County from 2017-2022.png "")
+![Alt text](/Dropout Rates across different Races in Momo County from 2017-2022.png "")
+![Alt text](/Dropout Rates across different Races in Plumas County from 2017-2022.png "")
+
+From the charts, it can be observed that African Americans(RB) and Hispanics/Latino (RH) are the races that often have the highest dropout rates. It is worth noting that San Francisco and Nevada Counties have both a more balanced mixture of Races in their Dropout Rates, while for Inyon, Mono and Plumas Counties, there is only African American (RB), Hispanic/Latino (RH), and White Americans (RW) in their Dropout Rates.
 
 Question 4. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Demographic Background from 2017 to 2022?
 
