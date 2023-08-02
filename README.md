@@ -30,8 +30,8 @@ _Methodology_
 1: Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
 In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for more comprehensive analysis.
 2: The settings of the Pivot Table are set as such:
-   *  Rows: CountyName
-   *  Values as: 
+   *  Rows: CountyName, Sort by Dropout Rate in Descending Order
+   *  Values as: ( an aggegation function will be used, but because all values are unique, any of the functions (min, max, mean) will work.
       * Regular HS Diploma Graduates (Rate)
       * Dropout (Rate)
       * Sill Enrolled (Rate)
@@ -68,15 +68,19 @@ Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how 
 _Methodology_
 1. Create a Pivot Table from the data on a seperate sheet, named County Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
 
+
 Question 4. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Demographic Background from 2017 to 2022?
+
+
 
 Question 5. For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?
 
 <h1>Interviewees</h1>
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.
 
-1. Scott Francis, Superintendent of Berkeley School District
-    *  Phone: (248) 837-8004
+1. Dr. Matt Wayne, Superintendent of San Francisco Unified School District
+    *  Phone: (415) 241-6121
+    *  Email: waynem@sfusd.edu
 2. Dr. Kyla Johnson-Trammell, Superintendent of Oakland Unified School District
     *  Phone: (510) 879-8000
     *  Email: superintendent@ousd.org
