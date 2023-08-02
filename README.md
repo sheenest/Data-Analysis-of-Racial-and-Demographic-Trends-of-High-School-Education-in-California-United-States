@@ -10,7 +10,6 @@ Due to the large number of School Districts and Schools in Califirnia, and for t
 
 <h1>Analysis Questions</h1>
 1.  What are the Top 5 Counties that had the highest Dropout Rates in 2022?  
-
 2.  For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which countries had a significant increase in Dropout Rates after 2019?  
 
 3.  For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?  
