@@ -39,6 +39,7 @@ In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rat
    *  Filters:
       * Academic Year: 2021-2022
       * Reporting Category: TA (meaning total)
+
 ![Alt text](/Question1.png "Question 1")  
 Answer: The Top 5 Countries with the highest Dropout Rates in 2022 are as follows (from higest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.
 
