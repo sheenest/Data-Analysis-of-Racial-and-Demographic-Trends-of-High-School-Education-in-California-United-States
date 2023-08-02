@@ -11,7 +11,7 @@ Due to the large number of School Districts and Schools in Califirnia, I will be
 As the data files are seperated by each Graduation Year on the website, they are all individually downloaded and put together on Excel, before importing them into Google Sheets for further Data Analysis.
 
 Using Power Query on Microsoft Excel, the Data is filtered and merged as mentioned, before exporting as a csv file to be uploaded onto Google Sheets.
-
+![Alt text](/Power_Query.png "Pre-processing of Data on Excel")
 
 <h1>Analysis Questions</h1>
 1.  What are the Top 5 Counties that had the highest Dropout Rates in 2022?
