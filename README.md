@@ -16,7 +16,7 @@ Based on the above stated conditions, the data is filterd as such using Power Qu
 * "CharterSchool" = "All": To filter rows that contain school that are both Charted and Non-Chartered.
 
 After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combinde together to form a single Dataset, named 2017-2022 (County). 
-![Alt text](/Power_Query.png "Pre-processing of Data on Excel Power Query")
+![Alt text](/Power_Query.png "Pre-processing of Data on Excel Power Query")  
 
 <h1>Analysis Questions</h1>
 
