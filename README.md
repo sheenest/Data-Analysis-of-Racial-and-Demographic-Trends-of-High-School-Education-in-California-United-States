@@ -174,8 +174,10 @@ From the chart, it can be seen that Mono has the Highest Proportion of Students 
 
 
 <h1>Data Visualization</h1>
-![Chloropeth Map of High School Dropout Rates of Counties in California in 2022](/images/Chloropeth-Map-dropout-rates-of-high-schools-in-counties-of-california-in-2022.png)
-[Chloropeth Map of High School Dropout Rates of Counties in California in 2022](https://datawrapper.dwcdn.net/ROyZZ/1/)
+
+![Chloropeth Map of High School Dropout Rates of Counties in California in 2022](/images/Chloropeth-dropout-rates-of-high-schools-in-counties-of-california-in-2022.png)
+
+[Chloropeth Map of High School Dropout Rates of Counties in California in 2022](https://datawrapper.dwcdn.net/ROyZZ/3/)
 
 
 <h1>Interviewees</h1>
