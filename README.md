@@ -101,8 +101,8 @@ The charts of Dropout Rates of each Individual Race from 2017-2022 are as follow
 ![Dropout Rates across different Races in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_San_Francisco_County_from_2017-2022.png)
 ![Dropout Rates across different Races in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Nevada_County_from_2017-2022.png)
 ![Dropout Rates across different Races in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Inyo_County_from_2017-2022.png)
-![Dropout Rates across different Races in Momo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Momo_County_from_2017-2022.png)
-[Dropout Rates across different Races in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Plumas_County_from_2017-2022.png)
+![Dropout Rates across different Races in Mono County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Mono_County_from_2017-2022.png)
+![Dropout Rates across different Races in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Plumas_County_from_2017-2022.png)
 
 From the charts, it can be observed that African Americans(RB) and Hispanics/Latino (RH) are the races that often have the highest dropout rates. It is worth noting that San Francisco and Nevada Counties have both a more balanced mixture of Races in their Dropout Rates, while for Inyon, Mono and Plumas Counties, there is only African American (RB), Hispanic/Latino (RH), and White Americans (RW) in their Dropout Rates.
 
