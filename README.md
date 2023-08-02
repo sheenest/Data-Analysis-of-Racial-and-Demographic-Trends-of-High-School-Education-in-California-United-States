@@ -19,8 +19,8 @@ After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combinde
 ![Alt text](/Power_Query.png "Pre-processing of Data on Excel Power Query")  
 
 As Google Sheets is not able to handle the size of the data, two Googele Sheet Files are created in my analysis. They are as follows:
-* [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing)
-* [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing)
+* [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing): Looks at the general broad Overview of the data.
+* [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing): Focuses on the Dropout Rates.
 
 <h1>Analysis Questions</h1>
 
@@ -40,6 +40,7 @@ In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rat
       * Academic Year: 2021-2022
       * Reporting Category: TA (meaning total)
 ![Alt text](/Question1.png "Question 1")  
+Answer: The Top 5 Countries with the highest Dropout Rates in 2022 are as follows (from higest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.
 
 Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019?
 
