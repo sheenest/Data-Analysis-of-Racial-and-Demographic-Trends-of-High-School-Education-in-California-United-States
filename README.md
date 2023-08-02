@@ -79,6 +79,8 @@ _Methodology_
    *  Filters:
       * Reporting Category: RB, RI, RA, RF, RH, RD, RP, RT, RW
       * County Name: San Francisco
+
+
 The abbreviations of the Reporting Catergories represents Race and are as such:
 * RB = African American
 * RI = American Indian or Alaska Native
@@ -119,6 +121,8 @@ The Methodology for this question is similar to Question 3, just that the Filtes
    *  Filters:
       * Reporting Category: SE, SD, SS, SM, SF, SH
       * County Name: San Francisco
+
+
 The abbreviations of the Reporting Catergories represents Demographic and are as such: 
 * SE = English Learners
 * SD = Students with Disabilities
