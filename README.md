@@ -97,7 +97,7 @@ Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds
 4. Repeat steps 2 and 3 for the other 4 counties.
 
 **Answer:**
-The charts of Dropout Rates of each Individual Race from 2017-2022 are as follows:
+The charts of Dropout Rates by Race for each of the Top 5 Counties from 2017-2022 are as follows:
 ![Dropout Rates across different Races in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_San_Francisco_County_from_2017-2022.png)
 ![Dropout Rates across different Races in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Nevada_County_from_2017-2022.png)
 ![Dropout Rates across different Races in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Inyo_County_from_2017-2022.png)
@@ -134,12 +134,12 @@ Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds
 4. Repeat steps 2 and 3 for the other 4 counties.
 
 **Answer:**
-The charts of Dropout Rates of each Individual Race from 2017-2022 are as follows:
-![Dropout Rates across different Demographics in San Francisco County from 2017-2022](/images/Dropout Rates across different Demographics in San Francisco County from 2017-2022.png "Dropout Rates across different Demographics in San Francisco County from 2017-2022")
-![Dropout Rates across different Demographics in Nevada County from 2017-2022](/images/Dropout Rates across different Demographics in Nevada County from 2017-2022.png "Dropout Rates across different Demographics in Nevada County from 2017-2022.png")
-![Dropout Rates across different Demographics in Inyo County from 2017-2022](/images/Dropout Rates across different Demographics in Inyo County from 2017-2022.png "Dropout Rates across different Demographics in Inyo County from 2017-2022.png")
-![Dropout Rates across different Demographics in Momo County from 2017-2022](/images/Dropout Rates across different Demographics in Momo County from 2017-2022.png "Dropout Rates across different Demographics in Momo County from 2017-2022.png")
-![Dropout Rates across different Demographics in Plumas County from 2017-2022](/images/Dropout Rates across different Demographics in Plumas County from 2017-2022.png "Dropout Rates across different Demographics in Plumas County from 2017-2022.png")
+The charts of Dropout Rates by Demographic for each of the Top 5 Counties from 2017-2022 are as follows:
+![Dropout Rates across different Demographics in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_San_Francisco_County_from_2017-2022.png)
+![Dropout Rates across different Demographics in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Nevada_County_from_2017-2022.png)
+![Dropout Rates across different Demographics in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Inyo_County_from_2017-2022.png)
+![Dropout Rates across different Demographics in Mono County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Mono_County_from_2017-2022.png)
+![Dropout Rates across different Demographics in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Plumas_County_from_2017-2022.png)
 
 From the charts, it can be observed that Homeless(SH) students had the highest dropout rates for all 5 counties except for Nevada in 2022. It was interesting to see that for Nevada County, the top 3 Demogrphic Groups in Dropout Rates are Enligsh Learners(SE), Socioeconimically Disadvanteged (SS) and Foster (SF).
 
