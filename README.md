@@ -25,7 +25,6 @@ As Google Sheets is not able to handle the size of the data, two Googele Sheet F
 <h1>Analysis Questions</h1>
 
 **Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**
-
 _Methodology_
 1: Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
 In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for more comprehensive analysis.
@@ -45,8 +44,9 @@ In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rat
 **Answer:** 
 The Top 5 Countries with the highest Dropout Rates in 2022 are as follows (from higest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.
 
-**Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019(after Covid 19 Pandemic)?**
 
+
+**Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019(after Covid 19 Pandemic)?**
 _Methodology_
 1. Create a Pivot Table from the data on a seperate sheet, named County Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
 2. The settings of the Pivot Table are set as such:
@@ -66,8 +66,9 @@ _Methodology_
 **Answer:** 
 Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.
 
-**Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?**
 
+
+**Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?**
 _Methodology_
 1. Create a Pivot Table from the data on a seperate sheet, named Race Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
 2. To answer this question, I created a Pivot Table and Chart for each of the Top 5 Coutnies from Question 1. The settings of the Pivot Table for San Francisco, for example, are set as such:
@@ -97,11 +98,11 @@ Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds
 
 **Answer:**
 The charts of Dropout Rates of each Individual Race from 2017-2022 are as follows:
-![Dropout Rates across different Races in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_San_Francisco_County_from_2017-2022.png "Dropout Rates across different Races in San Francisco County from 2017-2022")
-![Dropout Rates across different Races in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Nevada_County_from_2017-2022.png "Dropout Rates across different Races in Nevada County from 2017-2022.png")
-![Dropout Rates across different Races in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Inyo_County_from_2017-2022.png "Dropout Rates across different Races in Inyo County from 2017-2022.png")
-![Dropout Rates across different Races in Momo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Momo_County_from_2017-2022.png "Dropout Rates across different Races in Momo County from 2017-2022.png")
-[Dropout Rates across different Races in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Plumas_County_from_2017-2022.png "Dropout Rates across different Races in Plumas County from 2017-2022.png")
+![Dropout Rates across different Races in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_San_Francisco_County_from_2017-2022.png)
+![Dropout Rates across different Races in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Nevada_County_from_2017-2022.png)
+![Dropout Rates across different Races in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Inyo_County_from_2017-2022.png)
+![Dropout Rates across different Races in Momo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Momo_County_from_2017-2022.png)
+[Dropout Rates across different Races in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Plumas_County_from_2017-2022.png)
 
 From the charts, it can be observed that African Americans(RB) and Hispanics/Latino (RH) are the races that often have the highest dropout rates. It is worth noting that San Francisco and Nevada Counties have both a more balanced mixture of Races in their Dropout Rates, while for Inyon, Mono and Plumas Counties, there is only African American (RB), Hispanic/Latino (RH), and White Americans (RW) in their Dropout Rates.
 
