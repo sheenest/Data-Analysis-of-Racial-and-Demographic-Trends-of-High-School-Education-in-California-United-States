@@ -135,9 +135,9 @@ Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds
 
 **Answer:**
 The charts of Dropout Rates by Demographic for each of the Top 5 Counties from 2017-2022 are as follows:
-![Dropout Rates across different Demographics in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_San_Francisco_County_from_2017-2022.png)
+![Dropout Rates across different Demographics in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Demographic_in_San_Francisco_County_from_2017-2022.png)
 ![Dropout Rates across different Demographics in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Nevada_County_from_2017-2022.png)
-![Dropout Rates across different Demographics in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Inyo_County_from_2017-2022.png)
+![Dropout Rates across different Demographics in Inyo County from 2017-2022](/images/Dropout%20Rates_across_different_Demographic_in_Inyo_County_from_2017-2022.png)
 ![Dropout Rates across different Demographics in Mono County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Mono_County_from_2017-2022.png)
 ![Dropout Rates across different Demographics in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Plumas_County_from_2017-2022.png)
 
