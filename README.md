@@ -13,8 +13,6 @@ As the data files are seperated by each Graduation Year on the website, they are
 Using Power Query on Microsoft Excel, the Data is filtered and merged as mentioned, before exporting as a csv file to be uploaded onto Google Sheets.
 
 
-
-
 <h1>Analysis Questions</h1>
 1.  What are the Top 5 Counties that had the highest Dropout Rates in 2022?
 
