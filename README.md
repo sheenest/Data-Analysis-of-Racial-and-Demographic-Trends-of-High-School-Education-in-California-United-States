@@ -24,9 +24,10 @@ As Google Sheets is not able to handle the size of the data, two Googele Sheet F
 
 <h1>Analysis Questions</h1>
 
+
 **Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**  
 _Methodology_  
-1: Create a pivot table is created from the data on a separate sheet, named as _County GDE_ (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
+1: Create a pivot table is created from the data on a separate sheet, named as _County GDE_ (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).  
 In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for a more comprehensive analysis.  
 2: The settings of the Pivot Table are set as such:  
    *  Rows: CountyName, Sort by Dropout Rate in Descending Order
@@ -56,7 +57,7 @@ _Methodology_
       * Reporting Category: TA (meaning total)
       * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
     
-![Question 2 Pivot Table](/images/Question2.png)
+![Question 2 Pivot Table](../images/Question2.png)
 
 4. Create a Chart from the Pivot Table. 
 ![Dropout Rates of Top 5 Countries from 2018-2022](/images/Dropout Rates of Top 5 Countries from 2018-2022.png )
