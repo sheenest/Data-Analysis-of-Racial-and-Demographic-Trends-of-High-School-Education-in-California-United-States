@@ -1,31 +1,31 @@
-# J124-Final-Project: Data Analysis of Racial and Demographic Trends of High School Education in California, United States.
+# J124-Final-Project: Data Analysis of Racial and Demographic Trends of High School Education in California, United States.\
 
-<h1>Project Description</h1>
-In this project, I will be looking into Trends of Graduation and Dropout Rates across Race and Demography in the education system in Caifornia, United States. In doing so, I would be looking specifically into yearly Adjusted Cohort Graduation Rates(ACGR) of High Schools (Grade 9-12) of the Academic Years 2016-2017 to 2021-2022. Through this data, the Yearly Graduation and Dropout Rates across race and demography of schools across all School Districts and Counties in California are retrieved and compared for analysis.
+<h1>Project Description</h1>\
+In this project, I will be looking into Trends of Graduation and Dropout Rates across Race and Demography in the education system in Caifornia, United States. In doing so, I would be looking specifically into yearly Adjusted Cohort Graduation Rates(ACGR) of High Schools (Grade 9-12) of the Academic Years 2016-2017 to 2021-2022. Through this data, the Yearly Graduation and Dropout Rates across race and demography of schools across all School Districts and Counties in California are retrieved and compared for analysis.\
 
-The data is from the California Department of Education and can be found here: [https://www.cde.ca.gov/ds/ad/filesacgr.asp](https://www.cde.ca.gov/ds/ad/filesacgr.asp). 
+The data is from the California Department of Education and can be found here: [https://www.cde.ca.gov/ds/ad/filesacgr.asp](https://www.cde.ca.gov/ds/ad/filesacgr.asp). \
 
-<h1>Data Pre-processing</h1>
-Due to the large number of School Districts and Schools in Califirnia, I will be looking at the Data of the Adjusted Cohort Graduation Rates aggregated by Counties. As I am measuring the data across all school in California, Schools that are both in and not in the Dashboard Alternative School Status Program (DASS) as well as both Charted and Non-Chartere Schools will be included in the analysis.
+<h1>Data Pre-processing</h1>\
+Due to the large number of School Districts and Schools in Califirnia, I will be looking at the Data of the Adjusted Cohort Graduation Rates aggregated by Counties. As I am measuring the data across all school in California, Schools that are both in and not in the Dashboard Alternative School Status Program (DASS) as well as both Charted and Non-Chartere Schools will be included in the analysis.\
 
-As the data files are seperated by each Graduation Year on the website, they are all individually downloaded and put together on Excel, before importing them into Google Sheets for further Data Analysis.
+As the data files are seperated by each Graduation Year on the website, they are all individually downloaded and put together on Excel, before importing them into Google Sheets for further Data Analysis.\
 
-Based on the above stated conditions, the data is filterd as such using Power Query on Excel:
+Based on the above stated conditions, the data is filterd as such using Power Query on Excel:\
 * "AggregateLevel" Column = "C": To filter rows that are only aggregated by the level of Counties.
 * "DASS" = "All": To filter rows that contain schools that are both in and not in DASS.
 * "CharterSchool" = "All": To filter rows that contain school that are both Charted and Non-Chartered.
 
-After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combinde together to form a single Dataset, named 2017-2022 (County). 
+After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combinde together to form a single Dataset, named 2017-2022 (County). \
 ![Pre-processing of Data on Excel Power Query](/images/Power_Query.png )  
 
-As Google Sheets is not able to handle the size of the data, two Googele Sheet Files are created in my analysis. They are as follows:
+As Google Sheets is not able to handle the size of the data, two Googele Sheet Files are created in my analysis. They are as follows:\
 * [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing): Looks at the general broad Overview of the data.
 * [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing): Focuses on the Dropout Rates.
 
-<h1>Analysis Questions</h1>
+<h1>Analysis Questions</h1>\
 
-**Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**
-_Methodology_
+**Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**\
+_Methodology_\
 1: Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
 In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for more comprehensive analysis.
 2: The settings of the Pivot Table are set as such:
