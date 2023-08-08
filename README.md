@@ -22,7 +22,7 @@ As Google Sheets is not able to handle the size of the data, two Googele Sheet F
 * [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing): Looks at the general broad Overview of the data.
 * [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing): Focuses on the Dropout Rates.
 
-<h1>Analysis Questions</h1>\
+<h1>Analysis Questions</h1>
 
 **Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**\
 _Methodology_\
