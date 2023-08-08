@@ -16,7 +16,8 @@ Based on the above stated conditions, the data is filterd as such using Power Qu
 * "CharterSchool" = "All": To filter rows that contain school that are both Charted and Non-Chartered.
 
 After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combined together to form a single Dataset, named _2017-2022 (County)_. 
-![Pre-processing of Data on Excel Power Query](/images/Power_Query.png )  
+![Pre-processing of Data on Excel Power Query](/images/Power_Query.png )
+_Pre-processing of Data on Excel Power Query_  
 
 As Google Sheets is not able to handle the size of the data, two Googele Sheet Files are created in my analysis. They are as follows:
 * [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing): Looks at the general broad Overview of the data.
@@ -37,8 +38,10 @@ In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rat
       * Sill Enrolled (Rate)
    *  Filters:
       * Academic Year: 2021-2022
-      * Reporting Category: TA (meaning total)
+      * Reporting Category: TA (meaning total)  
+
 ![Question 1](/images/Question1.png)  
+_Piovot Table of Counties with highest Dropout Rates in 2022_
 
 **Answer:**  
 The Top 5 Counties with the highest Dropout Rates in 2022 are as follows (from highest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.  
@@ -56,14 +59,20 @@ _Methodology_
    *  Filters:
       * Reporting Category: TA (meaning total)
       * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
-    
-![Question 2 Pivot Table](../images/Question2.png)
 
-4. Create a Chart from the Pivot Table. 
-![Dropout Rates of Top 5 Countries from 2018-2022](/images/Dropout Rates of Top 5 Countries from 2018-2022.png )
+   ![Question 2 Pivot Table](images\Question2.png)
+_Pivot Table of Annual Dropout Rates from 2017 - 2022 of Top 5 Counties with highest Dropout Rates in 2022._    
 
-**Answer:**  
-Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.  
+3.  Create a line chart with the pivot table, with the Academic Year as the X-axis, and a series for each County.
+
+      ![Dropout Rates of Top 5 Counties from 2017-2022]
+      
+      ![](images\Question2 linechart.png)
+
+      ![](images\Dropout_Rates_of_Top_5_Counties_from_2017-2022.png)
+_Dropout Rates of Top 5 Counties from 2017-2022_  
+
+      Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.  
 
 
 
@@ -90,11 +99,12 @@ The abbreviations of the Reporting Catergories represents Race and are as such:
 * RP = Pacific Islander
 * RT = Two or More Races
 * RW = White
+
 Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds/ad/fsacgr.asp).  
 
 ![Race Yearly Dropout](/images/Race_Yearly_Dropout.png "Race Yearly Dropout")  
 
-3. Create a line chart with the table, with the Academic Year as the X-axis, and a series fro each individual reporting category (RB, RI, RA, RF, RH, RD, RP, RT, RW).
+3. Create a line chart with the table, with the Academic Year as the X-axis, and a series for each individual reporting category (RB, RI, RA, RF, RH, RD, RP, RT, RW).
 4. Repeat steps 2 and 3 for the other 4 counties.
 
 **Answer:**\
