@@ -15,7 +15,7 @@ Based on the above stated conditions, the data is filterd as such using Power Qu
 * "DASS" = "All": To filter rows that contain schools that are both in and not in DASS.
 * "CharterSchool" = "All": To filter rows that contain school that are both Charted and Non-Chartered.
 
-After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combinde together to form a single Dataset, named 2017-2022 (County). 
+After which, the datasets from Academic Year 2016-2017 to 2021-2022 are combined together to form a single Dataset, named _2017-2022 (County)_. 
 ![Pre-processing of Data on Excel Power Query](/images/Power_Query.png )  
 
 As Google Sheets is not able to handle the size of the data, two Googele Sheet Files are created in my analysis. They are as follows:
@@ -26,11 +26,11 @@ As Google Sheets is not able to handle the size of the data, two Googele Sheet F
 
 **Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**  
 _Methodology_  
-1: Create a pivot table is created from the data on a seperate sheet, names as County GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
-In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for more comprehensive analysis.  
+1: Create a pivot table is created from the data on a separate sheet, named as _County GDE_ (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
+In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for a more comprehensive analysis.  
 2: The settings of the Pivot Table are set as such:  
    *  Rows: CountyName, Sort by Dropout Rate in Descending Order
-   *  Values as: ( an aggegation function will be used, but because all values are unique, any of the functions (min, max, mean) will work.
+   *  Values: ( an aggregation function will be used, but because all values are unique, any of the functions (min, max, mean) will work.
       * Regular HS Diploma Graduates (Rate)
       * Dropout (Rate)
       * Sill Enrolled (Rate)
@@ -40,7 +40,7 @@ In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rat
 ![Question 1](/images/Question1.png)  
 
 **Answer:**  
-The Top 5 Counties with the highest Dropout Rates in 2022 are as follows (from higest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.
+The Top 5 Counties with the highest Dropout Rates in 2022 are as follows (from highest to lowest): San Francisco, Nevada, Inyo, Mono, Plumas.  
 
 
 
