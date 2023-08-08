@@ -185,9 +185,6 @@ At the end of the project, I hope to interview the following people whom I would
 1. Dr. Matt Wayne, Superintendent of San Francisco Unified School District
     *  Phone: (415) 241-6121
     *  Email: waynem@sfusd.edu
-2. Dr. Kyla Johnson-Trammell, Superintendent of Oakland Unified School District
-    *  Phone: (510) 879-8000
-    *  Email: superintendent@ousd.org
-3. Alberto M. Carvalho, Superintendent of Los Angeles Unified School 
-District
-    *  LinkedIn: https://www.linkedin.com/in/alberto-carvalho-33aa66193/
+2. Scott W. Lay, Nevada County Superintendent of Schools
+    *  Phone: (530) 478-6400
+    *  Email: lscott@nevco.org
