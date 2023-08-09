@@ -184,13 +184,13 @@ Another interesting observation was that unlike the other Counties, the Droprate
 _Methodology_  
 1. Create a pivot table from the data on a seperate sheet, named as 2022 GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing). The settings of the Pivot Table are set as such:
    *  Rows: CountyName
-   *  Values as: ( an aggegation function will be used, but because all values are unique, any of the functions (min, max, mean) will work.
+   *  Values as: ( Any aggegation functions, (min, max, mean, Sum) can be used, because all values are unique. )
       * Regular HS Diploma Graduates (Rate)
       * Dropout (Rate)
       * Sill Enrolled (Rate)
    *  Filters:
       * Academic Year: 2021-2022
-      * Reporting Category: TA (Refers to total)
+      * Reporting Category: TA (Refers to Total)
       * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
 2. Create a stacked column chart from the pivot table with X-axis as the County name and 3 series for the Regular HS Diploma Graduation rate, Dropout and Still Enrolled Rates.
 
@@ -199,13 +199,15 @@ _Pivot Table and Stacked Column chart of Graduation rate, Dropout Rate, and Prop
 
 ![Graduation, Still Enrolled and Dropout Rates of Counties in 2022](/images/Graduation,_Still_Enrolled_and_Dropout_Rates_of_Counties_in_2022.png)  
 _Graduation rate, Dropout Rate, and Proportion of Students that are still enrolled after senior year of Top 5 Counties in 2022_  
+
 From the chart, it can be seen that Mono has the Highest Proportion of Students were still enrolled after their Senior Year, and also the lowest Gradaution Rate in 2022.
 
 <h1>Data Visualization</h1>  
+By plotting the Graduation rates of each County in 2022 onto a Chlorepeth, the following visualisation is obtained:
 
 ![Chloropeth Map of High School Dropout Rates of Counties in California in 2022](/images/Chloropeth-dropout-rates-of-high-schools-in-counties-of-california-in-2022.png)
 
-[Chloropeth Map of High School Dropout Rates of Counties in California in 2022](https://datawrapper.dwcdn.net/ROyZZ/3/)
+[Chloropeth Map of High School Dropout Rates of Counties in California in 2022](https://datawrapper.dwcdn.net/ROyZZ/5/)
 
 <h1>Interviewees</h1>  
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.  
