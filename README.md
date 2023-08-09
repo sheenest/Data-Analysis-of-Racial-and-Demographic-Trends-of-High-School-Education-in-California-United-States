@@ -60,19 +60,19 @@ _Methodology_
       * Reporting Category: TA (meaning total)
       * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
 
-   ![Question 2 Pivot Table](images\Question2.png)
-_Pivot Table of Annual Dropout Rates from 2017 - 2022 of Top 5 Counties with highest Dropout Rates in 2022._    
+   ![Pivot Table Construction of Annual Dropout Rates from 2017 - 2022 of Top 5 Counties with highest Dropout Rates in 2022](images\Question2.png)
+_Pivot Table Construction of Annual Dropout Rates from 2017 - 2022 of Top 5 Counties with highest Dropout Rates in 2022_    
 
 3.  Create a line chart with the pivot table, with the Academic Year as the X-axis, and a series for each County.
 
-      ![Dropout Rates of Top 5 Counties from 2017-2022]
-      
-      ![](images\Question2 linechart.png)
+      ![Line chart Construction of Dropout Rates of Top 5 Counties from 2017-2022](images/Question2%20linechart.png)  
+_Line chart Construction of Dropout Rates of Top 5 Counties from 2017-2022_
 
-      ![](images\Dropout_Rates_of_Top_5_Counties_from_2017-2022.png)
-_Dropout Rates of Top 5 Counties from 2017-2022_  
+   Result
+   ![Dropout Rates of Top 5 Counties from 2017-2022](images\Dropout_Rates_of_Top_5_Counties_from_2017-2022.png)
+   _Dropout Rates of Top 5 Counties from 2017-2022_  
 
-      Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.  
+   Interestingly, most of the 5 countries had a decrease in Dropout Rates between 2018-2019 to 2019-2020, except Mono which had a significant increase in Dropout Rate in that period. Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022.  
 
 
 
@@ -86,8 +86,10 @@ _Methodology_
       * Dropout (Rate)
    *  Filters:
       * Reporting Category: RB, RI, RA, RF, RH, RD, RP, RT, RW
-      * County Name: San Francisco
+      * County Name: San Francisco  
 
+   ![Pivot Table Construction of Yearly Dropout Rates by Race](/images/Race_Yearly_Dropout.png "Race Yearly Dropout")  
+   _Pivot Table Construction of Yearly Dropout Rates by Race_  
 
 The abbreviations of the Reporting Catergories represents Race and are as such:  
 * RB = African American
@@ -102,18 +104,26 @@ The abbreviations of the Reporting Catergories represents Race and are as such:
 
 Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds/ad/fsacgr.asp).  
 
-![Race Yearly Dropout](/images/Race_Yearly_Dropout.png "Race Yearly Dropout")  
 
 3. Create a line chart with the table, with the Academic Year as the X-axis, and a series for each individual reporting category (RB, RI, RA, RF, RH, RD, RP, RT, RW).
+   
+   ![Line Chart Construction of Yearly Dropout Rates by Race](/images/Question3%20linechart.png)  
+   _Line Chart Construction of Yearly Dropout Rates by Race_  
+
 4. Repeat steps 2 and 3 for the other 4 counties.
 
-**Answer:**\
+**Answer:**  
 The charts of Dropout Rates by Race for each of the Top 5 Counties from 2017-2022 are as follows:  
 ![Dropout Rates across different Races in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_San_Francisco_County_from_2017-2022.png)
+_Dropout Rates across different Races in San Francisco County from 2017-2022_  
 ![Dropout Rates across different Races in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Nevada_County_from_2017-2022.png)
+_Dropout Rates across different Races in Nevada County from 2017-2022_
 ![Dropout Rates across different Races in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Inyo_County_from_2017-2022.png)
+_Dropout Rates across different Races in Inyo County from 2017-2022_
 ![Dropout Rates across different Races in Mono County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Mono_County_from_2017-2022.png)
+_Dropout Rates across different Races in Mono County from 2017-2022_
 ![Dropout Rates across different Races in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Races_in_Plumas_County_from_2017-2022.png)
+_Dropout Rates across different Races in Plumas County from 2017-2022_
 
 From the charts, it can be observed that African Americans(RB) and Hispanics/Latino (RH) are the races that often have the highest dropout rates. It is worth noting that San Francisco and Nevada Counties have both a more balanced mixture of Races in their Dropout Rates, while for Inyon, Mono and Plumas Counties, there is only African American (RB), Hispanic/Latino (RH), and White Americans (RW) in their Dropout Rates.  
 
@@ -132,8 +142,10 @@ The Methodology for this question is similar to Question 3, just that the Filtes
       * Dropout (Rate)
    *  Filters:
       * Reporting Category: SE, SD, SS, SM, SF, SH
-      * County Name: San Francisco
+      * County Name: San Francisco  
 
+   ![Pivot Table Construction of Yearly Dropout Rates by Demographic Background](/images/Demographic_Yearly_Dropout.png)  
+   _Pivot Table Construction of Yearly Dropout Rates by Demographic Background_
 
 The abbreviations of the Reporting Catergories represents Demographic and are as such:  
 * SE = English Learners
@@ -144,18 +156,25 @@ The abbreviations of the Reporting Catergories represents Demographic and are as
 * SH = Homeless
 Details of the Reporting Catgories can be found [here](https://www.cde.ca.gov/ds/ad/fsacgr.asp).  
 
-![Alt text](/Demographic Yearly Dropout.png "Demographic Yearly Dropout")  
-
 3. Create a line chart with the table, with the Academic Year as the X-axis, and a series for each individual reporting category (RB, RI, RA, RF, RH, RD, RP, RT, RW).
-4. Repeat steps 2 and 3 for the other 4 counties.
 
-**Answer:**  
-The charts of Dropout Rates by Demographic for each of the Top 5 Counties from 2017-2022 are as follows:
+   ![Line Chart Construction of Yearly Dropout Rates by Demographic Background](images/Question4%20linechart.png)
+   _Pivot Table Construction of Yearly Dropout Rates by Demographic Background_  
+
+2. Repeat steps 2 and 3 for the other 4 Counties.
+
+ 
+The charts of Dropout Rates by Demographic for each of the Top 5 Counties from 2017-2022 are as follows:  
 ![Dropout Rates across different Demographics in San Francisco County from 2017-2022](/images/Dropout_Rates_across_different_Demographic_in_San_Francisco_County_from_2017-2022.png)
+_Dropout Rates across different Demographics in San Francisco County from 2017-2022_
 ![Dropout Rates across different Demographics in Nevada County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Nevada_County_from_2017-2022.png)
+_Dropout Rates across different Demographics in Nevada County from 2017-2022_
 ![Dropout Rates across different Demographics in Inyo County from 2017-2022](/images/Dropout_Rates_across_different_Demographic_in_Inyo_County_from_2017-2022.png)
+_Dropout Rates across different Demographics in Inyo County from 2017-2022_
 ![Dropout Rates across different Demographics in Mono County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Mono_County_from_2017-2022.png)
+_Dropout Rates across different Demographics in Mono County from 2017-2022_
 ![Dropout Rates across different Demographics in Plumas County from 2017-2022](/images/Dropout_Rates_across_different_Demographics_in_Plumas_County_from_2017-2022.png)
+_Dropout Rates across different Demographics in Plumas County from 2017-2022_
 
 From the charts, it can be observed that Homeless(SH) students had the highest dropout rates for all 5 counties except for Nevada in 2022. It was interesting to see that for Nevada County, the top 3 Demogrphic Groups in Dropout Rates are Enligsh Learners(SE), Socioeconimically Disadvanteged (SS) and Foster (SF). It also important and worrying to note that the Dropout Rates for English Learners in Nevada County were the highest among all other Demographics and Counties in the 5 Counties.  
 
@@ -165,8 +184,7 @@ Another interesting observation was that unlike the other Counties, the Droprate
 
 **Question 5: For the Top 5 Countries with the highest Dropout rates in 2022, which County had the highest Proportion of Senior Year Students who are still enrolled and which County had the lowest graduation rate?**  
 _Methodology_  
-1: Create a pivot table from the data on a seperate sheet, named as 2022 GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
-2: The settings of the Pivot Table are set as such:
+1: Create a pivot table from the data on a seperate sheet, named as 2022 GDE (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing). The settings of the Pivot Table are set as such:
    *  Rows: CountyName
    *  Values as: ( an aggegation function will be used, but because all values are unique, any of the functions (min, max, mean) will work.
       * Regular HS Diploma Graduates (Rate)
@@ -176,6 +194,8 @@ _Methodology_
       * Academic Year: 2021-2022
       * Reporting Category: TA (meaning total)
       * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
+2. Create a stacked column chart from the pivot table with X-axis as the County name and 3 series for thee Regular HS Diploma Graduation rate, Dropout and Still Enrolled Rates.
+
 
 ![Question 5](/images/Question5.png)  
 
