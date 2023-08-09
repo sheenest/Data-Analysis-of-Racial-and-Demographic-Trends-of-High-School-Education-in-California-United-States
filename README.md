@@ -209,6 +209,9 @@ By plotting the Graduation rates of each County in 2022 onto a Chlorepeth, the f
 
 [Chloropeth Map of High School Dropout Rates of Counties in California in 2022](https://datawrapper.dwcdn.net/ROyZZ/5/)
 
+<h1>Contextual Analysis</h1>  
+
+
 <h1>Interviewees</h1>  
 At the end of the project, I hope to interview the following people whom I would believe would find this project useful in allocating resources and implementing policies to help support social subggroups that may be racially or financially disadvangted in their high school education.  
 
