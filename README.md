@@ -230,6 +230,8 @@ _Graduation rate, Dropout Rate, and Proportion of Students that are still enroll
 From the chart, it can be seen that Mono has the Highest Proportion of Students who were still enrolled after their Senior Year, and also the lowest Dropout Rate in 2022. This means that despite the low Graduation Rates, measures may have been taken by the School Districts of Nevada County to retain Students who did perform well in their Senior Year to give them a chance to graduate from High School the next year. It positively reflects on the effort by Nevada County to ensure that despite challenges in learning, sociocultural and demographic backgrounds, a second chance is given to these students to stay enrolled in High Schools to ensure a better chance of Graduating in the next year.
 
 <h1>Story Pitch</h1>
+
+**What Educational Policies and Resources can be implemented to which Communities in the 5 Counties to improve the High School Education of those Counties?**  
 The data reflects on the various challenges faced by the Education System in the Top 5 Counties that had the highest dropout rates in 2022. Due to the decrease in dropout rates between Academic Year 2018-2019 and 2019-2020, it may be evident that remote learning is an effective form of education for High School Students. Looking at the Racial and Demographic Trends in the Dropout Rates of the 5 Counties, Financial Aid and Support could be given to Communities that consisted of the Racial and Demographic Categories that had generally high High School Dropout Rates. For Races, they were African Americans, Hispanics, Latinos, and Asians, while for Demographic Categories, they were Homeless, Socioeconomically Disadvantaged, and English Learners.  
   
 
