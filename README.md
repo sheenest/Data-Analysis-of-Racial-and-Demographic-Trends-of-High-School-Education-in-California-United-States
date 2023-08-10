@@ -141,19 +141,19 @@ _Methodology_
 **Answer:**  
 The charts of Dropout Rates by Race for each of the Top 5 Counties from 2017-2022 are as follows:  
   
-![Dropout Rates across different Races in San Francisco County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20San%20Francisco%20County%20from%202017-2022.png)
+![Dropout Rates across different Races in San Francisco County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20San%20Francisco%20County%20from%202017-2022.png)  
 _Dropout Rates across different Races in San Francisco County from 2017-2022_   
 
-![Dropout Rates across different Races in Nevada County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Nevada%20County%20from%202017-2022.png)
+![Dropout Rates across different Races in Nevada County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Nevada%20County%20from%202017-2022.png)  
 _Dropout Rates across different Races in Nevada County from 2017-2022_  
 
-![Dropout Rates across different Races in Inyo County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Inyo%20County%20from%202017-2022.png)
+![Dropout Rates across different Races in Inyo County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Inyo%20County%20from%202017-2022.png)  
 _Dropout Rates across different Races in Inyo County from 2017-2022_  
 
-![Dropout Rates across different Races in Mono County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Mono%20County%20from%202017-2022.png)
+![Dropout Rates across different Races in Mono County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Mono%20County%20from%202017-2022.png)  
 _Dropout Rates across different Races in Mono County from 2017-2022_  
 
-![Dropout Rates across different Races in Plumas County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Plumas%20County%20from%202017-2022.png)
+![Dropout Rates across different Races in Plumas County from 2017-2022](images/Dropout%20Rates%20across%20different%20Races%20in%20Plumas%20County%20from%202017-2022.png)  
 _Dropout Rates across different Races in Plumas County from 2017-2022_  
 
 From the charts, it can be observed that African Americans, Hispanics, Latinos, and Asians are the races that generally have higher dropout rates.  
@@ -221,13 +221,15 @@ _Pivot Table of Graduation rate, Dropout Rate, and Proportion of Students that a
 
 
 **Answer:**  
-![Graduation, Still Enrolled and Dropout Rates of Counties in 2022](images/Graduation,%20Still%20Enrolled%20and%20Dropout%20Rates%20of%20Counties%20in%202022.png)
+![Graduation, Still Enrolled and Dropout Rates of Counties in 2022](images/Graduation,%20Still%20Enrolled%20and%20Dropout%20Rates%20of%20Counties%20in%202022.png)  
 _Graduation rate, Dropout Rate, and Proportion of Students that are still enrolled after senior year of Top 5 Counties in 2022_  
 
 From the chart, it can be seen that Mono has the Highest Proportion of Students who were still enrolled after their Senior Year, and also the lowest Dropout Rate in 2022. This means that despite the low Graduation Rates, measures may have been taken by the School Districts of Nevada County to retain Students who did perform well in their Senior Year to give them a chance to graduate from High School the next year. It positively reflects on the effort by Nevada County to ensure that despite challenges in learning, sociocultural and demographic backgrounds, a second chance is given to these students to stay enrolled in High Schools to ensure a better chance of Graduating in the next year.
 
 <h1>Story Pitch</h1>
-The data reflects on the various challenges faced by the Education System in the Top 5 Counties that had the highest dropout rates in 2022. Due to the decrease in dropout rates between Academic Year 2018-2019 and 2019-2020, it may be evident that remote learning is an effective form of education for High School Students. Looking at the Racial and Demographic Trends in the Dropout Rates of the 5 Counties, Financial Aid and Support could be given to Communities that consisted of the Racial and Demographic Categories that had generally high High School Dropout Rates. For Races, they were African Americans, Hispanics, Latinos, and Asians, while for Demographic Categories, they were Homeless, Socioeconomically Disadvantaged, and English Learners.
+The data reflects on the various challenges faced by the Education System in the Top 5 Counties that had the highest dropout rates in 2022. Due to the decrease in dropout rates between Academic Year 2018-2019 and 2019-2020, it may be evident that remote learning is an effective form of education for High School Students. Looking at the Racial and Demographic Trends in the Dropout Rates of the 5 Counties, Financial Aid and Support could be given to Communities that consisted of the Racial and Demographic Categories that had generally high High School Dropout Rates. For Races, they were African Americans, Hispanics, Latinos, and Asians, while for Demographic Categories, they were Homeless, Socioeconomically Disadvantaged, and English Learners.  
+  
 
-Looking at the individual Counties, Nevada County and San Francisco County stood out to be in need of support to help students of various categories to Graduate from High School. More than half of African Americans in San Francisco as well as Asian, Hispanic/Latino and African Americans in Nevada County dropped out of High School in 2022, which is a worrying concern. In addition, it is noteworthy to see that San Francisco had a consecutive increase in High School Dropout rates from 2020 to 2022, suggesting that a certain weakness in the Education System of San Francisco County, which may be caused by the Pandemic, needs to be addressed. In channelling support to students of lower demographic backgrounds, it is important that it is channelled towards Foster Homes, and lower-income families in Nevada County, as these Students had the highest Dropout Rates in 2022. Finally, in using Mono County as a role model, support can be given for Students, who did make it through the final year, to stay enrolled so as to ensure that they can eventually Graduate.
+
+Looking at the individual Counties, Nevada County and San Francisco County stood out to be in need of support to help students of various categories to Graduate from High School. More than half of African Americans in San Francisco as well as Asian, Hispanic/Latino and African Americans in Nevada County dropped out of High School in 2022, which is a worrying concern. In addition, it is noteworthy to see that San Francisco had a consecutive increase in High School Dropout rates from 2020 to 2022, suggesting that a certain weakness in the Education System of San Francisco County, which may be caused by the Pandemic, needs to be addressed. In channelling support to students of lower demographic backgrounds, it is important that it is channelled towards Foster Homes, and lower-income families in Nevada County, as these Students had the highest Dropout Rates in 2022. Finally, in using Mono County as a role model, support can be given for Students, who did make it through the final year, to stay enrolled so as to ensure that they can eventually Graduate.  
 
