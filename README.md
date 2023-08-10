@@ -71,6 +71,7 @@ From the Chlorepeth, we can see some interesting patterns in the Dropout Rates. 
 
 
 **Question 1. What are the Top 5 Counties that had the highest Dropout Rates in 2022?**  
+
 _Methodology_  
 1: A pivot table is created from the data on a separate sheet, named  _County GDE_ (stands for Graduation, Dropout and Enrolment). This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).  
 In addition to looking at the Top 5 Counties by Dropout Rate, the Graduation Rate and Proportion of Students still enrolled are included as well for a more comprehensive analysis.  
@@ -93,6 +94,7 @@ The Top 5 Counties with the highest Dropout Rates in 2022 are as follows (from h
 
 
 **Question 2. For the Top 5 Countries with the highest Dropout rates in 2022, how did the dropout rates vary from 2017 to 2022? Which country of the 5 had a significant increase in Dropout Rates after 2019(after Covid 19 Pandemic)?**  
+
 _Methodology_  
 1. Create a Pivot Table from the data on a separate sheet, named County Yearly Dropout. This sheet is created in [ACGR](https://docs.google.com/spreadsheets/d/1zc8FEzi5wkwPSBJD1SgmVf1vp_lN6pdns5f7aXnaASc/edit?usp=sharing).
 2. The settings of the Pivot Table are set as such:
@@ -118,7 +120,8 @@ _Methodology_
    Following up from 2019-2020, it is worth noting that the Dropout rates of San Francisco County gradually increased from 2019-2020 to 2021-2022. This is interesting as it may suggest that, despite the decrease in Dropout Rates after the Pandemic, the event might have negatively affected education in the High Schools in the Bay area, causing a consecutive increase in Dropout Rates for 2 years after 2020.  
 
 
-**Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?**  
+**Question 3. For the Top 5 Countries with the highest Dropout rates in 2022, how did the Dropout Rates vary across Race from 2017 to 2022?**   
+
 _Methodology_  
 1. Create a Pivot Table from the data on a separate sheet, named Race Yearly Dropout. This sheet is created in [ACGR Dropout Rates](https://docs.google.com/spreadsheets/d/1wkpduouZsWpbPY3YoUNc3CZhI6z2E4JB492esOP2N-8/edit?usp=sharing).
 2. To answer this question, I created a Pivot Table and Chart for each of the Top 5 Counties from Question 1. The settings of the Pivot Table for San Francisco, for example, are set as such:
@@ -217,7 +220,7 @@ _Methodology_
       * Count Name: Inyo, Mono, Nevada, Plumas, San Francisco
    ![Question 5](/images/Question5.png)  
 _Pivot Table of Graduation rate, Dropout Rate, and Proportion of Students that are still enrolled after senior year._  
-1. Create a stacked column chart from the pivot table with X-axis as the County name and 3 series for the Regular HS Diploma Graduation rate, Dropout and Still Enrolled Rates.
+2. Create a stacked column chart from the pivot table with X-axis as the County name and 3 series for the Regular HS Diploma Graduation rate, Dropout and Still Enrolled Rates.
 
 
 **Answer:**  
