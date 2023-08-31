@@ -1,4 +1,4 @@
-# J124-Final-Project: Data Analysis of Racial and Demographic Trends of High School Education in California, United States.
+# J124-Final-Project: Data Analysis of Racial and Demographic Trends of High School Education in California, United States.  
 
 This is project is part of the course, **Introduction to Data Journalism (J124)** at **University of California, Berkeley, Summer Sessions**. I would like to express my thanks to Professor Dana Amihere for all the guidance on this project. 
 
